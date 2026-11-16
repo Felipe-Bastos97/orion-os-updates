@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.0/OrionOS_Setup_0.1.0.exe",
+  "sha256": "99E2850709370043E9C9A38C9D8120824EE82C728F67D7A1710DDCCF50ACDD6B",
+  "notes": "Primeira versão do Orion OS com login, perfil editável, Dashboard, ordens de serviço, Vendas, Histórico e identidade visual Orion.",
+  "mandatory": false
+}
