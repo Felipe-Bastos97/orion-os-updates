@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.1/OrionOS_Setup_0.1.1.exe",
-  "sha256": "21FC2A8385C7940AC25B2B8D309EB98FF6A72F4729AB75C3E0DA6100B666803D",
-  "notes": "Painel de vendas com valor e status, indicadores financeiros no Dashboard e cálculo de custos pela precificação.",
+  "version": "0.1.3",
+  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.3/OrionOS_Setup_0.1.3.exe",
+  "sha256": "8B1CD24741F96A760100E5BA9C6224539B4815E7A3D5739582D3CFD1C531EE4A",
+  "notes": "Novo Dashboard com gráficos, Histórico de O.S. funcional e melhorias de desempenho.",
   "mandatory": false
 }
