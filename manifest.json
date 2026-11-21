@@ -1,7 +1,7 @@
 {
-  "version": "0.1.3",
-  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.3/OrionOS_Setup_0.1.3.exe",
-  "sha256": "8B1CD24741F96A760100E5BA9C6224539B4815E7A3D5739582D3CFD1C531EE4A",
-  "notes": "Novo Dashboard com gráficos, Histórico de O.S. funcional e melhorias de desempenho.",
+  "version": "0.1.4",
+  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.4/OrionOS_Setup_0.1.4.exe",
+  "sha256": "06DF5EC08821310A928C0D0EC4CB72964D8FC6031ECE80509B70A07FD6967598",
+  "notes": "Ajuste visual das barras do Dashboard para períodos com somente um mês.",
   "mandatory": false
 }
