@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.4/OrionOS_Setup_0.1.4.exe",
-  "sha256": "06DF5EC08821310A928C0D0EC4CB72964D8FC6031ECE80509B70A07FD6967598",
-  "notes": "Ajuste visual das barras do Dashboard para períodos com somente um mês.",
+  "version": "0.1.5",
+  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.5/OrionOS_Setup_0.1.5.exe",
+  "sha256": "262BF4BBA98BBA05FA09B43CDF8875019584E06FE8643F6F47D560779F6B326B",
+  "notes": "O Orion agora reabre automaticamente depois de concluir a atualização.",
   "mandatory": false
 }
