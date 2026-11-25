@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
-  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.5/OrionOS_Setup_0.1.5.exe",
-  "sha256": "262BF4BBA98BBA05FA09B43CDF8875019584E06FE8643F6F47D560779F6B326B",
-  "notes": "O Orion agora reabre automaticamente depois de concluir a atualização.",
+  "sha256": "8EDB373745DEBF19A3BC5C99E27776314BD2637A3BE1FBC21A9DC607BA1B4468",
+  "download_url": "https://github.com/Felipe-Bastos97/orion-os-updates/releases/download/v0.1.6/OrionOS_Setup_0.1.6.exe",
+  "version": "0.1.6",
+  "notes": "Custo interno ao editar venda e melhorias nas ordens de serviço.",
   "mandatory": false
 }
